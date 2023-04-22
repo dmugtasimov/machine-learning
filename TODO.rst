@@ -1,0 +1,1 @@
+- Strip out results from Jupyter notebooks with custom precommit hook
