@@ -14,4 +14,4 @@ repos:
         name: jupyter-nb-clear-output
         files: \.ipynb$
         language: system
-        entry: jupyter nbconvert --clear-output --inplace
+        entry: poetry run jupyter nbconvert --clear-output --inplace
